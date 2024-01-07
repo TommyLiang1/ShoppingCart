@@ -1,7 +1,6 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import { Button, buttonVariants } from "@/components/ui/button";
 
-import Dashboard from "./dashboard/page";
 import Link from "next/link";
 export default function Home() {
   return (
